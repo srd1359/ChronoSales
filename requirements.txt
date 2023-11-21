@@ -7,4 +7,5 @@ uvicorn==0.24.0.post1
 h5py==3.10.0
 python-multipart==0.0.6
 xgboost==2.0.2
-Flask==1.1.1
+Flask>=2.2.2
+Jinja2==3.0.3
